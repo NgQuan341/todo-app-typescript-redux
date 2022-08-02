@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoHeader component renders without error 1`] = `"<h2 class=\\"ant-typography\\" style=\\"text-align:center\\">TODO APP</h2>"`;

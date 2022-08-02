@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TodoForm component renders without error 1`] = `"<div class=\\"ant-col ant-col-24\\"><span class=\\"ant-input-group ant-input-group-compact\\" style=\\"display:flex;margin-top:20px\\"><input type=\\"text\\" value=\\"\\" name=\\"input-todo\\" class=\\"ant-input\\"/><button name=\\"submit-button\\" style=\\"background:#2DEB56;border-color:#2DEB56;color:white\\" type=\\"button\\" class=\\"ant-btn ant-btn-primary button-submit\\"><span>Add</span></button></span></div>"`;
